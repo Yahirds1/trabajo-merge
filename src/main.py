@@ -6,3 +6,4 @@ print('Módulo de Inventario cargado')
 
 print('Módulo de Pagos (Pasarela) cargado')
 
+print('Módulo de Reportes y PDF cargado')
